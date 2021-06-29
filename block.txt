@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Checksum: bnbYO+LvZia794hFKTPdcw
+! Title: Fanboy+Easylist-Merged Ultimate List
+! Version: 202106291245
+! Last modified: 2021-06-29 12:45 UTC
+! Expires: 3 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist@protonmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
+&ad.vid=$~xmlhttprequest
